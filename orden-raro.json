@@ -1,0 +1,1972 @@
+{
+  "orderId": "1525850597352-01",
+  "sequence": "597352",
+  "marketplaceOrderId": "",
+  "marketplaceServicesEndpoint": "http://oms.vtexinternal.com.br/api/oms?an=estilospe",
+  "sellerOrderId": "00-1525850597352-01",
+  "origin": "Marketplace",
+  "affiliateId": "",
+  "salesChannel": "1",
+  "merchantName": null,
+  "status": "handling",
+  "workflowIsInError": false,
+  "statusDescription": "Preparando Entrega",
+  "value": 60770,
+  "creationDate": "2025-04-18T16:50:53.6983264+00:00",
+  "lastChange": "2025-04-18T16:52:28.3694452+00:00",
+  "orderGroup": "1525850597352",
+  "followUpEmail": "33435a9e85954538992b765065bfeed2@ct.vtex.com.br",
+  "lastMessage": null,
+  "hostname": "estilospe",
+  "isCompleted": true,
+  "roundingError": 0,
+  "orderFormId": "818dcfa1df7241748830c2226a7b1079",
+  "allowCancellation": true,
+  "allowEdition": false,
+  "isCheckedIn": false,
+  "authorizedDate": "2025-04-18T16:51:21.0000000+00:00",
+  "invoicedDate": null,
+  "cancelReason": null,
+  "checkedInPickupPointId": null,
+  "totals": [
+    {
+      "id": "Items",
+      "name": "Total de los items",
+      "value": 114490
+    },
+    {
+      "id": "Discounts",
+      "name": "Total de descuentos",
+      "value": -53720
+    },
+    {
+      "id": "Shipping",
+      "name": "Costo total del envío",
+      "value": 0
+    },
+    {
+      "id": "Tax",
+      "name": "Costo total del cambio",
+      "value": 0
+    }
+  ],
+  "sellers": [
+    {
+      "id": "1",
+      "name": "ESTILOS PERU",
+      "logo": "",
+      "fulfillmentEndpoint": "http://fulfillment.vtexcommerce.com.br/api/fulfillment?an=estilospe"
+    }
+  ],
+  "clientPreferencesData": {
+    "locale": "es-PE",
+    "optinNewsLetter": false
+  },
+  "cancellationData": null,
+  "taxData": null,
+  "subscriptionData": null,
+  "itemMetadata": {
+    "Items": [
+      {
+        "Id": "272902",
+        "Seller": "1",
+        "Name": "NIKE ÍNDIGO  EDT 30ML NIKE ÍNDIGO EDT 30ML . .",
+        "SkuName": "NIKE ÍNDIGO EDT 30ML . .",
+        "ProductId": "281048",
+        "RefId": "002352930",
+        "Ean": null,
+        "ImageUrl": "https://estilospe.vteximg.com.br/arquivos/ids/3297596-90-90/SKU.jpg?v=638687732631170000",
+        "DetailUrl": "/nike-indigo--edt-30ml281048/p",
+        "AssemblyOptions": []
+      },
+      {
+        "Id": "248336",
+        "Seller": "1",
+        "Name": "POLERON PUMA 625205 43 PUMA TEAM RUGBY SHIRT PUMA  625205 43 PUMA TEAM RUGBY SHIRT VERDE S",
+        "SkuName": "PUMA  625205 43 PUMA TEAM RUGBY SHIRT VERDE S",
+        "ProductId": "272681",
+        "RefId": "002315128",
+        "Ean": null,
+        "ImageUrl": "https://estilospe.vteximg.com.br/arquivos/ids/3171153-90-90/SKU.jpg?v=638538302957730000",
+        "DetailUrl": "/puma--625205-43-puma-team-rugby-shirt272681/p",
+        "AssemblyOptions": []
+      },
+      {
+        "Id": "180009",
+        "Seller": "1",
+        "Name": "THOMAS HERVIDOR TH-4340 1.7 LT . .",
+        "SkuName": "THOMAS HERVIDOR TH-4340 1.7 LT . .",
+        "ProductId": "208510",
+        "RefId": "001970010",
+        "Ean": "900019700109",
+        "ImageUrl": "https://estilospe.vteximg.com.br/arquivos/ids/2815511-90-90/001970010.jpg?v=638325590315330000",
+        "DetailUrl": "/thomas-hervidor-th-4340-1-7-lt208510/p",
+        "AssemblyOptions": []
+      },
+      {
+        "Id": "243580",
+        "Seller": "1",
+        "Name": "LEVI'S JEANS 045111907 511? SLIM 511? NEGRO 32",
+        "SkuName": "LEVI'S JEANS 045111907 511? SLIM 511? NEGRO 32",
+        "ProductId": "270716",
+        "RefId": "002304705",
+        "Ean": null,
+        "ImageUrl": "https://estilospe.vteximg.com.br/arquivos/ids/3144305-90-90/SKU.jpg?v=638507001824230000",
+        "DetailUrl": "/levi-s-jeans-045111907-511--slim-511-270716/p",
+        "AssemblyOptions": []
+      },
+      {
+        "Id": "243584",
+        "Seller": "1",
+        "Name": "LEVI'S JEANS 045113920 511? SLIM 511? AZUL CLARO 30",
+        "SkuName": "LEVI'S JEANS 045113920 511? SLIM 511? AZUL CLARO 30",
+        "ProductId": "270718",
+        "RefId": "002304716",
+        "Ean": null,
+        "ImageUrl": "https://estilospe.vteximg.com.br/arquivos/ids/3144836-90-90/SKU.jpg?v=638507008964030000",
+        "DetailUrl": "/levi-s-jeans-045113920-511--slim-511-270718/p",
+        "AssemblyOptions": []
+      },
+      {
+        "Id": "254529",
+        "Seller": "1",
+        "Name": "ZAPATILLA ADVANTAGE 2.0 IG918 ADVANTAGE 2.0 IG9182 FTWR WHITE 7",
+        "SkuName": "ADVANTAGE 2.0 IG9182 FTWR WHITE 7",
+        "ProductId": "274829",
+        "RefId": "002329443",
+        "Ean": null,
+        "ImageUrl": "https://estilospe.vteximg.com.br/arquivos/ids/3207262-90-90/SKU.jpg?v=638563220641170000",
+        "DetailUrl": "/advantage-2-0-ig9182274829/p",
+        "AssemblyOptions": []
+      }
+    ]
+  },
+  "marketplace": {
+    "baseURL": "http://oms.vtexinternal.com.br/api/oms?an=estilospe",
+    "isCertified": null,
+    "name": "estilospe"
+  },
+  "storePreferencesData": {
+    "countryCode": "PER",
+    "currencyCode": "PEN",
+    "currencyFormatInfo": {
+      "CurrencyDecimalDigits": 2,
+      "CurrencyDecimalSeparator": ".",
+      "CurrencyGroupSeparator": ",",
+      "CurrencyGroupSize": 3,
+      "StartsWithCurrencySymbol": true
+    },
+    "currencyLocale": 10250,
+    "currencySymbol": "S/",
+    "timeZone": "SA Pacific Standard Time"
+  },
+  "customData": {
+    "customApps": [
+      {
+        "fields": {
+          "externalPromotions": "[{\"id\":254529,\"externalPromotions\":[{\"matchedParameters\":{\"skuId\":\"254529\"},\"identifier\":\"DescuentoEstilos\",\"isPercentual\":false,\"value\":0,\"finalValue\":12450}]},{\"id\":243584,\"externalPromotions\":[{\"matchedParameters\":{\"skuId\":\"243584\"},\"identifier\":\"DescuentoEstilos\",\"isPercentual\":false,\"value\":0,\"finalValue\":12450}]},{\"id\":243580,\"externalPromotions\":[{\"matchedParameters\":{\"skuId\":\"243580\"},\"identifier\":\"DescuentoEstilos\",\"isPercentual\":false,\"value\":0,\"finalValue\":12450}]},{\"id\":180009,\"externalPromotions\":[{\"matchedParameters\":{\"skuId\":\"180009\"},\"identifier\":\"DescuentoEstilos\",\"isPercentual\":false,\"value\":0,\"finalValue\":6290}]},{\"id\":248336,\"externalPromotions\":[{\"matchedParameters\":{\"skuId\":\"248336\"},\"identifier\":\"DescuentoEstilos\",\"isPercentual\":false,\"value\":0,\"finalValue\":13140}]},{\"id\":272902,\"externalPromotions\":[{\"matchedParameters\":{\"skuId\":\"272902\"},\"identifier\":\"DescuentoEstilos\",\"isPercentual\":false,\"value\":0,\"finalValue\":3990}]}]",
+          "estilosPromotions": "[{\"AnhioMotorizado\":\"0\",\"AplicaBigTicket\":\"1\",\"AplicaCobroBigTicket\":\"0\",\"Aux\":\"0\",\"CCSkuAplica\":\"0\",\"Cant\":\"1\",\"CantFor\":\"1.00\",\"ChasisMotorizado\":null,\"Clase\":\"452\",\"CodProm\":\"0\",\"CodigoDescuento\":\"24087\",\"CodigoDescuentoAdicional\":\"0\",\"CodigoPorLaCompraDe\":\"0\",\"CodigoRebaja\":\"0\",\"ColorMotorizado\":null,\"ConcesionadoIng\":\"0\",\"CostoPromedio\":\"132.3880\",\"CuponesAplicados\":null,\"Descripcion\":\"ADVANTAGE 20 IG9182 FTWR WHITE 7\",\"DescuentoManual\":\"false\",\"DescuentoManualAutoriza\":null,\"DescuentoManualValor\":\"0\",\"DisposicionEfectivo\":\"0\",\"Div\":\"12\",\"EsConcesionado\":\"0\",\"Estilo\":\"274829\",\"GravaImp\":\"1\",\"Linea\":\"1\",\"MarcaMotorizado\":\"ADIDAS\",\"Mensaje\":\"Promocion Correcta\",\"ModeloMotorizado\":null,\"MotorMotorizado\":null,\"Motorizado\":\"0\",\"NoAplicaSinInteres\":\"0\",\"ObservacionDescuento\":null,\"PLSAplica\":\"false\",\"PLSId\":\"0\",\"PLSPrecioAplicaBase\":null,\"PLSPrecioOriginal\":\"249.0000\",\"PLSPrimeroId\":\"0\",\"PlsPrecio\":\"0.0000\",\"PorcDescBase\":\"50\",\"PorcDescEsp\":\"0\",\"PorcDescLin\":\"50\",\"PorcDescLinFor\":\"50.00 + 0.00\",\"PorcDescOrig\":\"50\",\"PorcentajeDescuentoGlobal\":\"0\",\"PorcentajeIva\":\"18\",\"PorlaComprade\":\"0\",\"PrecioBlanco\":\"211.0169\",\"PrecioVigente\":\"211.0169\",\"Proveedor\":\"591\",\"SKUCombo\":null,\"Sku\":\"002329443\",\"SubTot\":\"105.51\",\"Tamanhio\":\"1\",\"TipoDescuento\":\"1\",\"UsuarioDescuentoGlobal\":null,\"ValBruto\":\"211.02\",\"ValDescGen\":\"0.00\",\"ValDescLin\":\"105.51\",\"ValImp\":\"18.99\",\"ValNeto\":\"105.51\",\"ValUni\":\"211.0169\",\"ValUniFor\":\"249.00\",\"ValorNetoFor\":\"124.50\",\"Vendedor\":\"15927\",\"gvMetodoAplicaCuponCrm\":\"0\",\"idDpto\":\"64\",\"idMarca\":\"301\"},{\"AnhioMotorizado\":\"0\",\"AplicaBigTicket\":\"1\",\"AplicaCobroBigTicket\":\"0\",\"Aux\":\"0\",\"CCSkuAplica\":\"0\",\"Cant\":\"1\",\"CantFor\":\"1.00\",\"ChasisMotorizado\":null,\"Clase\":\"230\",\"CodProm\":\"0\",\"CodigoDescuento\":\"24069\",\"CodigoDescuentoAdicional\":\"0\",\"CodigoPorLaCompraDe\":\"0\",\"CodigoRebaja\":\"0\",\"ColorMotorizado\":null,\"ConcesionadoIng\":\"0\",\"CostoPromedio\":\"135.0510\",\"CuponesAplicados\":null,\"Descripcion\":\"LEVIS JEANS 045113920 511 SLIM 511 AZUL CLARO 30\",\"DescuentoManual\":\"false\",\"DescuentoManualAutoriza\":null,\"DescuentoManualValor\":\"0\",\"DisposicionEfectivo\":\"0\",\"Div\":\"9\",\"EsConcesionado\":\"0\",\"Estilo\":\"270718\",\"GravaImp\":\"1\",\"Linea\":\"2\",\"MarcaMotorizado\":\"LEVIS\",\"Mensaje\":\"Promocion Correcta\",\"ModeloMotorizado\":null,\"MotorMotorizado\":null,\"Motorizado\":\"0\",\"NoAplicaSinInteres\":\"0\",\"ObservacionDescuento\":null,\"PLSAplica\":\"false\",\"PLSId\":\"0\",\"PLSPrecioAplicaBase\":null,\"PLSPrecioOriginal\":\"249.0000\",\"PLSPrimeroId\":\"0\",\"PlsPrecio\":\"0.0000\",\"PorcDescBase\":\"50\",\"PorcDescEsp\":\"0\",\"PorcDescLin\":\"50\",\"PorcDescLinFor\":\"50.00 + 0.00\",\"PorcDescOrig\":\"50\",\"PorcentajeDescuentoGlobal\":\"0\",\"PorcentajeIva\":\"18\",\"PorlaComprade\":\"0\",\"PrecioBlanco\":\"211.0169\",\"PrecioVigente\":\"211.0169\",\"Proveedor\":\"1149\",\"SKUCombo\":null,\"Sku\":\"002304716\",\"SubTot\":\"105.51\",\"Tamanhio\":\"1\",\"TipoDescuento\":\"1\",\"UsuarioDescuentoGlobal\":null,\"ValBruto\":\"211.02\",\"ValDescGen\":\"0.00\",\"ValDescLin\":\"105.51\",\"ValImp\":\"18.99\",\"ValNeto\":\"105.51\",\"ValUni\":\"211.0169\",\"ValUniFor\":\"249.00\",\"ValorNetoFor\":\"124.50\",\"Vendedor\":\"15927\",\"gvMetodoAplicaCuponCrm\":\"0\",\"idDpto\":\"48\",\"idMarca\":\"52\"},{\"AnhioMotorizado\":\"0\",\"AplicaBigTicket\":\"1\",\"AplicaCobroBigTicket\":\"0\",\"Aux\":\"0\",\"CCSkuAplica\":\"0\",\"Cant\":\"1\",\"CantFor\":\"1.00\",\"ChasisMotorizado\":null,\"Clase\":\"230\",\"CodProm\":\"0\",\"CodigoDescuento\":\"24069\",\"CodigoDescuentoAdicional\":\"0\",\"CodigoPorLaCompraDe\":\"0\",\"CodigoRebaja\":\"0\",\"ColorMotorizado\":null,\"ConcesionadoIng\":\"0\",\"CostoPromedio\":\"135.0510\",\"CuponesAplicados\":null,\"Descripcion\":\"LEVIS JEANS 045111907 511 SLIM 511 NEGRO 32\",\"DescuentoManual\":\"false\",\"DescuentoManualAutoriza\":null,\"DescuentoManualValor\":\"0\",\"DisposicionEfectivo\":\"0\",\"Div\":\"9\",\"EsConcesionado\":\"0\",\"Estilo\":\"270716\",\"GravaImp\":\"1\",\"Linea\":\"3\",\"MarcaMotorizado\":\"LEVIS\",\"Mensaje\":\"Promocion Correcta\",\"ModeloMotorizado\":null,\"MotorMotorizado\":null,\"Motorizado\":\"0\",\"NoAplicaSinInteres\":\"0\",\"ObservacionDescuento\":null,\"PLSAplica\":\"false\",\"PLSId\":\"0\",\"PLSPrecioAplicaBase\":null,\"PLSPrecioOriginal\":\"249.0000\",\"PLSPrimeroId\":\"0\",\"PlsPrecio\":\"0.0000\",\"PorcDescBase\":\"50\",\"PorcDescEsp\":\"0\",\"PorcDescLin\":\"50\",\"PorcDescLinFor\":\"50.00 + 0.00\",\"PorcDescOrig\":\"50\",\"PorcentajeDescuentoGlobal\":\"0\",\"PorcentajeIva\":\"18\",\"PorlaComprade\":\"0\",\"PrecioBlanco\":\"211.0169\",\"PrecioVigente\":\"211.0169\",\"Proveedor\":\"1149\",\"SKUCombo\":null,\"Sku\":\"002304705\",\"SubTot\":\"105.51\",\"Tamanhio\":\"1\",\"TipoDescuento\":\"1\",\"UsuarioDescuentoGlobal\":null,\"ValBruto\":\"211.02\",\"ValDescGen\":\"0.00\",\"ValDescLin\":\"105.51\",\"ValImp\":\"18.99\",\"ValNeto\":\"105.51\",\"ValUni\":\"211.0169\",\"ValUniFor\":\"249.00\",\"ValorNetoFor\":\"124.50\",\"Vendedor\":\"15927\",\"gvMetodoAplicaCuponCrm\":\"0\",\"idDpto\":\"48\",\"idMarca\":\"52\"},{\"AnhioMotorizado\":\"0\",\"AplicaBigTicket\":\"1\",\"AplicaCobroBigTicket\":\"1\",\"Aux\":\"0\",\"CCSkuAplica\":\"0\",\"Cant\":\"1\",\"CantFor\":\"1.00\",\"ChasisMotorizado\":null,\"Clase\":\"866\",\"CodProm\":\"0\",\"CodigoDescuento\":\"0\",\"CodigoDescuentoAdicional\":\"0\",\"CodigoPorLaCompraDe\":\"0\",\"CodigoRebaja\":\"49921\",\"ColorMotorizado\":null,\"ConcesionadoIng\":\"0\",\"CostoPromedio\":\"81.9900\",\"CuponesAplicados\":null,\"Descripcion\":\"THOMAS HERVIDOR TH4340 17 LT\",\"DescuentoManual\":\"false\",\"DescuentoManualAutoriza\":null,\"DescuentoManualValor\":\"0\",\"DisposicionEfectivo\":\"0\",\"Div\":\"14\",\"EsConcesionado\":\"0\",\"Estilo\":\"208510\",\"GravaImp\":\"1\",\"Linea\":\"4\",\"MarcaMotorizado\":\"THOMAS\",\"Mensaje\":\"Promocion Correcta\",\"ModeloMotorizado\":null,\"MotorMotorizado\":null,\"Motorizado\":\"0\",\"NoAplicaSinInteres\":\"0\",\"ObservacionDescuento\":null,\"PLSAplica\":\"false\",\"PLSId\":\"0\",\"PLSPrecioAplicaBase\":null,\"PLSPrecioOriginal\":\"62.9000\",\"PLSPrimeroId\":\"0\",\"PlsPrecio\":\"0.0000\",\"PorcDescBase\":\"0\",\"PorcDescEsp\":\"0\",\"PorcDescLin\":\"0\",\"PorcDescLinFor\":\"0.00 + 0.00\",\"PorcDescOrig\":\"0\",\"PorcentajeDescuentoGlobal\":\"0\",\"PorcentajeIva\":\"18\",\"PorlaComprade\":\"0\",\"PrecioBlanco\":\"109.3220\",\"PrecioVigente\":\"109.3220\",\"Proveedor\":\"1044\",\"SKUCombo\":null,\"Sku\":\"001970010\",\"SubTot\":\"53.31\",\"Tamanhio\":\"1\",\"TipoDescuento\":\"2\",\"UsuarioDescuentoGlobal\":null,\"ValBruto\":\"53.31\",\"ValDescGen\":\"0.00\",\"ValDescLin\":\"0.00\",\"ValImp\":\"9.59\",\"ValNeto\":\"53.31\",\"ValUni\":\"53.3051\",\"ValUniFor\":\"62.90\",\"ValorNetoFor\":\"62.90\",\"Vendedor\":\"15927\",\"gvMetodoAplicaCuponCrm\":\"0\",\"idDpto\":\"110\",\"idMarca\":\"7767\"},{\"AnhioMotorizado\":\"0\",\"AplicaBigTicket\":\"1\",\"AplicaCobroBigTicket\":\"0\",\"Aux\":\"0\",\"CCSkuAplica\":\"0\",\"Cant\":\"1\",\"CantFor\":\"1.00\",\"ChasisMotorizado\":null,\"Clase\":\"300\",\"CodProm\":\"0\",\"CodigoDescuento\":\"24074\",\"CodigoDescuentoAdicional\":\"0\",\"CodigoPorLaCompraDe\":\"0\",\"CodigoRebaja\":\"0\",\"ColorMotorizado\":null,\"ConcesionadoIng\":\"0\",\"CostoPromedio\":\"85.1900\",\"CuponesAplicados\":null,\"Descripcion\":\"PUMA  625205 43 PUMA TEAM RUGBY SHIRT VERDE S\",\"DescuentoManual\":\"false\",\"DescuentoManualAutoriza\":null,\"DescuentoManualValor\":\"0\",\"DisposicionEfectivo\":\"0\",\"Div\":\"10\",\"EsConcesionado\":\"0\",\"Estilo\":\"272681\",\"GravaImp\":\"1\",\"Linea\":\"5\",\"MarcaMotorizado\":\"PUMA\",\"Mensaje\":\"Promocion Correcta\",\"ModeloMotorizado\":null,\"MotorMotorizado\":null,\"Motorizado\":\"0\",\"NoAplicaSinInteres\":\"0\",\"ObservacionDescuento\":null,\"PLSAplica\":\"false\",\"PLSId\":\"0\",\"PLSPrecioAplicaBase\":null,\"PLSPrecioOriginal\":\"219.0000\",\"PLSPrimeroId\":\"0\",\"PlsPrecio\":\"0.0000\",\"PorcDescBase\":\"39.999999999999993\",\"PorcDescEsp\":\"0\",\"PorcDescLin\":\"39.999999999999993\",\"PorcDescLinFor\":\"40.00 + 0.00\",\"PorcDescOrig\":\"39.999999999999993\",\"PorcentajeDescuentoGlobal\":\"0\",\"PorcentajeIva\":\"18\",\"PorlaComprade\":\"0\",\"PrecioBlanco\":\"185.5932\",\"PrecioVigente\":\"185.5932\",\"Proveedor\":\"993\",\"SKUCombo\":null,\"Sku\":\"002315128\",\"SubTot\":\"111.35\",\"Tamanhio\":\"1\",\"TipoDescuento\":\"1\",\"UsuarioDescuentoGlobal\":null,\"ValBruto\":\"185.59\",\"ValDescGen\":\"0.00\",\"ValDescLin\":\"74.24\",\"ValImp\":\"20.04\",\"ValNeto\":\"111.35\",\"ValUni\":\"185.5932\",\"ValUniFor\":\"219.00\",\"ValorNetoFor\":\"131.40\",\"Vendedor\":\"15927\",\"gvMetodoAplicaCuponCrm\":\"0\",\"idDpto\":\"53\",\"idMarca\":\"979\"},{\"AnhioMotorizado\":\"0\",\"AplicaBigTicket\":\"1\",\"AplicaCobroBigTicket\":\"0\",\"Aux\":\"0\",\"CCSkuAplica\":\"0\",\"Cant\":\"1\",\"CantFor\":\"1.00\",\"ChasisMotorizado\":null,\"Clase\":\"139\",\"CodProm\":\"0\",\"CodigoDescuento\":\"0\",\"CodigoDescuentoAdicional\":\"0\",\"CodigoPorLaCompraDe\":\"0\",\"CodigoRebaja\":\"49940\",\"ColorMotorizado\":null,\"ConcesionadoIng\":\"0\",\"CostoPromedio\":\"23.2580\",\"CuponesAplicados\":null,\"Descripcion\":\"NIKE NDIGO  EDT 30ML\",\"DescuentoManual\":\"false\",\"DescuentoManualAutoriza\":null,\"DescuentoManualValor\":\"0\",\"DisposicionEfectivo\":\"0\",\"Div\":\"24\",\"EsConcesionado\":\"0\",\"Estilo\":\"281048\",\"GravaImp\":\"1\",\"Linea\":\"6\",\"MarcaMotorizado\":\"NIKE\",\"Mensaje\":\"Promocion Correcta\",\"ModeloMotorizado\":null,\"MotorMotorizado\":null,\"Motorizado\":\"0\",\"NoAplicaSinInteres\":\"0\",\"ObservacionDescuento\":null,\"PLSAplica\":\"false\",\"PLSId\":\"0\",\"PLSPrecioAplicaBase\":null,\"PLSPrecioOriginal\":\"39.9000\",\"PLSPrimeroId\":\"0\",\"PlsPrecio\":\"0.0000\",\"PorcDescBase\":\"0\",\"PorcDescEsp\":\"0\",\"PorcDescLin\":\"0\",\"PorcDescLinFor\":\"0.00 + 0.00\",\"PorcDescOrig\":\"0\",\"PorcentajeDescuentoGlobal\":\"0\",\"PorcentajeIva\":\"18\",\"PorlaComprade\":\"0\",\"PrecioBlanco\":\"42.2881\",\"PrecioVigente\":\"42.2881\",\"Proveedor\":\"2621\",\"SKUCombo\":null,\"Sku\":\"002352930\",\"SubTot\":\"33.81\",\"Tamanhio\":\"1\",\"TipoDescuento\":\"2\",\"UsuarioDescuentoGlobal\":null,\"ValBruto\":\"33.81\",\"ValDescGen\":\"0.00\",\"ValDescLin\":\"0.00\",\"ValImp\":\"6.09\",\"ValNeto\":\"33.81\",\"ValUni\":\"33.8136\",\"ValUniFor\":\"39.90\",\"ValorNetoFor\":\"39.90\",\"Vendedor\":\"15927\",\"gvMetodoAplicaCuponCrm\":\"0\",\"idDpto\":\"73\",\"idMarca\":\"284\"}]"
+        },
+        "id": "promotion-provider-estilos",
+        "major": 1
+      },
+      {
+        "fields": {
+          "other-person-receive-order": "{\"receivesDelivery\":false,\"clientName\":\"\",\"clientPhone\":\"\",\"clientEmail\":\"\",\"documentType\":\"DNI\",\"documentNumber\":\"\"}",
+          "terms-and-conditions": "{\"termsConditions\":true,\"dateTerms\":\"2025-04-18\"}"
+        },
+        "id": "additional-custom-data",
+        "major": 1
+      }
+    ]
+  },
+  "commercialConditionData": null,
+  "openTextField": null,
+  "invoiceData": null,
+  "changesAttachment": null,
+  "callCenterOperatorData": null,
+  "packageAttachment": {
+    "packages": []
+  },
+  "paymentData": {
+    "transactions": [
+      {
+        "isActive": true,
+        "transactionId": "708C3D92B33045D6A58B42E42425F5B3",
+        "merchantName": "ESTILOSPE",
+        "payments": [
+          {
+            "id": "E8E5579AA7084C7FA529C4DCA646E388",
+            "paymentSystem": "10",
+            "paymentSystemName": "Visa Electron",
+            "value": 60770,
+            "installments": 1,
+            "referenceValue": 60770,
+            "cardHolder": null,
+            "cardNumber": null,
+            "firstDigits": "455103",
+            "lastDigits": "1672",
+            "cvv2": null,
+            "expireMonth": null,
+            "expireYear": null,
+            "url": null,
+            "giftCardId": null,
+            "giftCardName": null,
+            "giftCardCaption": null,
+            "redemptionCode": null,
+            "group": "debitCard",
+            "tid": "trh3fdgtzhas345ik9v7",
+            "dueDate": null,
+            "connectorResponses": {
+              "Tid": "trh3fdgtzhas345ik9v7",
+              "nsu": "trh3fdgtzhas345ik9v7",
+              "authId": "148239",
+              "acquirer": "Openpay",
+              "ReturnCode": null,
+              "Message": null
+            },
+            "giftCardProvider": null,
+            "giftCardAsDiscount": null,
+            "koinUrl": null,
+            "accountId": null,
+            "parentAccountId": null,
+            "bankIssuedInvoiceIdentificationNumber": null,
+            "bankIssuedInvoiceIdentificationNumberFormatted": null,
+            "bankIssuedInvoiceBarCodeNumber": null,
+            "bankIssuedInvoiceBarCodeType": null,
+            "billingAddress": {
+              "postalCode": null,
+              "city": "Huaura",
+              "state": "Lima",
+              "country": "PER",
+              "street": "av santa rosa sn",
+              "number": "sn",
+              "neighborhood": "Huacho",
+              "complement": "lote 19",
+              "reference": null,
+              "geoCoordinates": []
+            },
+            "paymentOrigin": null
+          }
+        ]
+      }
+    ],
+    "giftCards": []
+  },
+  "shippingData": {
+    "id": "shippingData",
+    "address": {
+      "addressType": "pickup",
+      "receiverName": "EDGAR  enriquez escobar",
+      "addressId": "31",
+      "versionId": null,
+      "entityId": null,
+      "postalCode": "150801",
+      "city": "Huaura",
+      "state": "Lima",
+      "country": "PER",
+      "street": "TDA Huacho | C.C Plaza Del Sol. Calle Colon ",
+      "number": "601",
+      "neighborhood": "Huacho",
+      "complement": "",
+      "reference": null,
+      "geoCoordinates": [
+        -77.61366,
+        -11.10946
+      ]
+    },
+    "logisticsInfo": [
+      {
+        "itemIndex": 0,
+        "itemId": "254529",
+        "selectedSla": "RECOGE EN TIENDA TDA. HUACHO RT (31)",
+        "selectedDeliveryChannel": "pickup-in-point",
+        "lockTTL": "12d",
+        "price": 0,
+        "listPrice": 0,
+        "sellingPrice": 0,
+        "deliveryWindow": null,
+        "deliveryCompany": "TDA. HUACHO RT",
+        "shippingEstimate": "1d",
+        "shippingEstimateDate": "2025-04-19T16:51:23.2224768+00:00",
+        "slas": [
+          {
+            "id": "RECOGE EN TIENDA TDA. HUACHO RT (31)",
+            "name": "RECOGE EN TIENDA TDA. HUACHO RT (31)",
+            "shippingEstimate": "1d",
+            "deliveryWindow": null,
+            "availableDeliveryWindows": [],
+            "price": 0,
+            "listPrice": 0,
+            "deliveryChannel": "pickup-in-point",
+            "pickupStoreInfo": {
+              "additionalInfo": "",
+              "address": {
+                "addressType": "pickup",
+                "receiverName": null,
+                "addressId": "31",
+                "versionId": null,
+                "entityId": null,
+                "postalCode": "150801",
+                "city": "Huaura",
+                "state": "Lima",
+                "country": "PER",
+                "street": "TDA Huacho | C.C Plaza Del Sol. Calle Colon ",
+                "number": "601",
+                "neighborhood": "Huacho",
+                "complement": "",
+                "reference": null,
+                "geoCoordinates": [
+                  -77.61366,
+                  -11.10946
+                ]
+              },
+              "dockId": "31",
+              "friendlyName": "TDA. HUACHO",
+              "isPickupStore": true
+            },
+            "polygonName": "PERU_RT",
+            "lockTTL": "12d",
+            "pickupPointId": "1_31",
+            "transitTime": "1d",
+            "pickupDistance": 0,
+            "deliveryIds": [
+              {
+                "courierId": "31_1",
+                "courierName": "TDA. HUACHO RT",
+                "dockId": "31",
+                "quantity": 1,
+                "warehouseId": "31",
+                "accountCarrierName": "estilospe",
+                "kitItemDetails": []
+              }
+            ],
+            "shippingEstimateDate": "2025-04-19T16:51:23.2224768+00:00"
+          },
+          {
+            "id": "Envio Regular Huacho",
+            "name": "Envio Regular Huacho",
+            "shippingEstimate": "3bd",
+            "deliveryWindow": null,
+            "availableDeliveryWindows": [],
+            "price": 0,
+            "listPrice": 308,
+            "deliveryChannel": "delivery",
+            "pickupStoreInfo": {
+              "additionalInfo": null,
+              "address": null,
+              "dockId": null,
+              "friendlyName": null,
+              "isPickupStore": false
+            },
+            "polygonName": "HUACHO_URBANO",
+            "lockTTL": "12d",
+            "pickupPointId": null,
+            "transitTime": "3bd",
+            "pickupDistance": 0,
+            "deliveryIds": [
+              {
+                "courierId": "31",
+                "courierName": "TDA. HUACHO",
+                "dockId": "31",
+                "quantity": 1,
+                "warehouseId": "31",
+                "accountCarrierName": "estilospe",
+                "kitItemDetails": []
+              }
+            ],
+            "shippingEstimateDate": null
+          }
+        ],
+        "shipsTo": [
+          "PER"
+        ],
+        "deliveryIds": [
+          {
+            "courierId": "31_1",
+            "courierName": "TDA. HUACHO RT",
+            "dockId": "31",
+            "quantity": 1,
+            "warehouseId": "31",
+            "accountCarrierName": "estilospe",
+            "kitItemDetails": []
+          }
+        ],
+        "deliveryChannels": [
+          {
+            "id": "delivery",
+            "stockBalance": 0
+          },
+          {
+            "id": "pickup-in-point",
+            "stockBalance": 0
+          }
+        ],
+        "deliveryChannel": "pickup-in-point",
+        "pickupStoreInfo": {
+          "additionalInfo": "",
+          "address": {
+            "addressType": "pickup",
+            "receiverName": null,
+            "addressId": "31",
+            "versionId": null,
+            "entityId": null,
+            "postalCode": "150801",
+            "city": "Huaura",
+            "state": "Lima",
+            "country": "PER",
+            "street": "TDA Huacho | C.C Plaza Del Sol. Calle Colon ",
+            "number": "601",
+            "neighborhood": "Huacho",
+            "complement": "",
+            "reference": null,
+            "geoCoordinates": [
+              -77.61366,
+              -11.10946
+            ]
+          },
+          "dockId": "31",
+          "friendlyName": "TDA. HUACHO",
+          "isPickupStore": true
+        },
+        "addressId": "31",
+        "versionId": null,
+        "entityId": null,
+        "polygonName": "PERU_RT",
+        "pickupPointId": "1_31",
+        "transitTime": "1d"
+      },
+      {
+        "itemIndex": 1,
+        "itemId": "243584",
+        "selectedSla": "RECOGE EN TIENDA TDA. HUACHO RT (31)",
+        "selectedDeliveryChannel": "pickup-in-point",
+        "lockTTL": "12d",
+        "price": 0,
+        "listPrice": 0,
+        "sellingPrice": 0,
+        "deliveryWindow": null,
+        "deliveryCompany": "TDA. HUACHO RT",
+        "shippingEstimate": "1d",
+        "shippingEstimateDate": "2025-04-19T16:51:23.2224768+00:00",
+        "slas": [
+          {
+            "id": "RECOGE EN TIENDA TDA. HUACHO RT (31)",
+            "name": "RECOGE EN TIENDA TDA. HUACHO RT (31)",
+            "shippingEstimate": "1d",
+            "deliveryWindow": null,
+            "availableDeliveryWindows": [],
+            "price": 0,
+            "listPrice": 0,
+            "deliveryChannel": "pickup-in-point",
+            "pickupStoreInfo": {
+              "additionalInfo": "",
+              "address": {
+                "addressType": "pickup",
+                "receiverName": null,
+                "addressId": "31",
+                "versionId": null,
+                "entityId": null,
+                "postalCode": "150801",
+                "city": "Huaura",
+                "state": "Lima",
+                "country": "PER",
+                "street": "TDA Huacho | C.C Plaza Del Sol. Calle Colon ",
+                "number": "601",
+                "neighborhood": "Huacho",
+                "complement": "",
+                "reference": null,
+                "geoCoordinates": [
+                  -77.61366,
+                  -11.10946
+                ]
+              },
+              "dockId": "31",
+              "friendlyName": "TDA. HUACHO",
+              "isPickupStore": true
+            },
+            "polygonName": "PERU_RT",
+            "lockTTL": "12d",
+            "pickupPointId": "1_31",
+            "transitTime": "1d",
+            "pickupDistance": 0,
+            "deliveryIds": [
+              {
+                "courierId": "31_1",
+                "courierName": "TDA. HUACHO RT",
+                "dockId": "31",
+                "quantity": 1,
+                "warehouseId": "31",
+                "accountCarrierName": "estilospe",
+                "kitItemDetails": []
+              }
+            ],
+            "shippingEstimateDate": "2025-04-19T16:51:23.2224768+00:00"
+          },
+          {
+            "id": "Envio Regular Huacho",
+            "name": "Envio Regular Huacho",
+            "shippingEstimate": "3bd",
+            "deliveryWindow": null,
+            "availableDeliveryWindows": [],
+            "price": 0,
+            "listPrice": 308,
+            "deliveryChannel": "delivery",
+            "pickupStoreInfo": {
+              "additionalInfo": null,
+              "address": null,
+              "dockId": null,
+              "friendlyName": null,
+              "isPickupStore": false
+            },
+            "polygonName": "HUACHO_URBANO",
+            "lockTTL": "12d",
+            "pickupPointId": null,
+            "transitTime": "3bd",
+            "pickupDistance": 0,
+            "deliveryIds": [
+              {
+                "courierId": "31",
+                "courierName": "TDA. HUACHO",
+                "dockId": "31",
+                "quantity": 1,
+                "warehouseId": "31",
+                "accountCarrierName": "estilospe",
+                "kitItemDetails": []
+              }
+            ],
+            "shippingEstimateDate": null
+          }
+        ],
+        "shipsTo": [
+          "PER"
+        ],
+        "deliveryIds": [
+          {
+            "courierId": "31_1",
+            "courierName": "TDA. HUACHO RT",
+            "dockId": "31",
+            "quantity": 1,
+            "warehouseId": "31",
+            "accountCarrierName": "estilospe",
+            "kitItemDetails": []
+          }
+        ],
+        "deliveryChannels": [
+          {
+            "id": "delivery",
+            "stockBalance": 0
+          },
+          {
+            "id": "pickup-in-point",
+            "stockBalance": 0
+          }
+        ],
+        "deliveryChannel": "pickup-in-point",
+        "pickupStoreInfo": {
+          "additionalInfo": "",
+          "address": {
+            "addressType": "pickup",
+            "receiverName": null,
+            "addressId": "31",
+            "versionId": null,
+            "entityId": null,
+            "postalCode": "150801",
+            "city": "Huaura",
+            "state": "Lima",
+            "country": "PER",
+            "street": "TDA Huacho | C.C Plaza Del Sol. Calle Colon ",
+            "number": "601",
+            "neighborhood": "Huacho",
+            "complement": "",
+            "reference": null,
+            "geoCoordinates": [
+              -77.61366,
+              -11.10946
+            ]
+          },
+          "dockId": "31",
+          "friendlyName": "TDA. HUACHO",
+          "isPickupStore": true
+        },
+        "addressId": "31",
+        "versionId": null,
+        "entityId": null,
+        "polygonName": "PERU_RT",
+        "pickupPointId": "1_31",
+        "transitTime": "1d"
+      },
+      {
+        "itemIndex": 2,
+        "itemId": "243580",
+        "selectedSla": "RECOGE EN TIENDA TDA. HUACHO RT (31)",
+        "selectedDeliveryChannel": "pickup-in-point",
+        "lockTTL": "12d",
+        "price": 0,
+        "listPrice": 0,
+        "sellingPrice": 0,
+        "deliveryWindow": null,
+        "deliveryCompany": "TDA. HUACHO RT",
+        "shippingEstimate": "1d",
+        "shippingEstimateDate": "2025-04-19T16:51:23.2224768+00:00",
+        "slas": [
+          {
+            "id": "RECOGE EN TIENDA TDA. HUACHO RT (31)",
+            "name": "RECOGE EN TIENDA TDA. HUACHO RT (31)",
+            "shippingEstimate": "1d",
+            "deliveryWindow": null,
+            "availableDeliveryWindows": [],
+            "price": 0,
+            "listPrice": 0,
+            "deliveryChannel": "pickup-in-point",
+            "pickupStoreInfo": {
+              "additionalInfo": "",
+              "address": {
+                "addressType": "pickup",
+                "receiverName": null,
+                "addressId": "31",
+                "versionId": null,
+                "entityId": null,
+                "postalCode": "150801",
+                "city": "Huaura",
+                "state": "Lima",
+                "country": "PER",
+                "street": "TDA Huacho | C.C Plaza Del Sol. Calle Colon ",
+                "number": "601",
+                "neighborhood": "Huacho",
+                "complement": "",
+                "reference": null,
+                "geoCoordinates": [
+                  -77.61366,
+                  -11.10946
+                ]
+              },
+              "dockId": "31",
+              "friendlyName": "TDA. HUACHO",
+              "isPickupStore": true
+            },
+            "polygonName": "PERU_RT",
+            "lockTTL": "12d",
+            "pickupPointId": "1_31",
+            "transitTime": "1d",
+            "pickupDistance": 0,
+            "deliveryIds": [
+              {
+                "courierId": "31_1",
+                "courierName": "TDA. HUACHO RT",
+                "dockId": "31",
+                "quantity": 1,
+                "warehouseId": "31",
+                "accountCarrierName": "estilospe",
+                "kitItemDetails": []
+              }
+            ],
+            "shippingEstimateDate": "2025-04-19T16:51:23.2224768+00:00"
+          },
+          {
+            "id": "Envio Regular Huacho",
+            "name": "Envio Regular Huacho",
+            "shippingEstimate": "3bd",
+            "deliveryWindow": null,
+            "availableDeliveryWindows": [],
+            "price": 0,
+            "listPrice": 308,
+            "deliveryChannel": "delivery",
+            "pickupStoreInfo": {
+              "additionalInfo": null,
+              "address": null,
+              "dockId": null,
+              "friendlyName": null,
+              "isPickupStore": false
+            },
+            "polygonName": "HUACHO_URBANO",
+            "lockTTL": "12d",
+            "pickupPointId": null,
+            "transitTime": "3bd",
+            "pickupDistance": 0,
+            "deliveryIds": [
+              {
+                "courierId": "31",
+                "courierName": "TDA. HUACHO",
+                "dockId": "31",
+                "quantity": 1,
+                "warehouseId": "31",
+                "accountCarrierName": "estilospe",
+                "kitItemDetails": []
+              }
+            ],
+            "shippingEstimateDate": null
+          }
+        ],
+        "shipsTo": [
+          "PER"
+        ],
+        "deliveryIds": [
+          {
+            "courierId": "31_1",
+            "courierName": "TDA. HUACHO RT",
+            "dockId": "31",
+            "quantity": 1,
+            "warehouseId": "31",
+            "accountCarrierName": "estilospe",
+            "kitItemDetails": []
+          }
+        ],
+        "deliveryChannels": [
+          {
+            "id": "delivery",
+            "stockBalance": 0
+          },
+          {
+            "id": "pickup-in-point",
+            "stockBalance": 0
+          }
+        ],
+        "deliveryChannel": "pickup-in-point",
+        "pickupStoreInfo": {
+          "additionalInfo": "",
+          "address": {
+            "addressType": "pickup",
+            "receiverName": null,
+            "addressId": "31",
+            "versionId": null,
+            "entityId": null,
+            "postalCode": "150801",
+            "city": "Huaura",
+            "state": "Lima",
+            "country": "PER",
+            "street": "TDA Huacho | C.C Plaza Del Sol. Calle Colon ",
+            "number": "601",
+            "neighborhood": "Huacho",
+            "complement": "",
+            "reference": null,
+            "geoCoordinates": [
+              -77.61366,
+              -11.10946
+            ]
+          },
+          "dockId": "31",
+          "friendlyName": "TDA. HUACHO",
+          "isPickupStore": true
+        },
+        "addressId": "31",
+        "versionId": null,
+        "entityId": null,
+        "polygonName": "PERU_RT",
+        "pickupPointId": "1_31",
+        "transitTime": "1d"
+      },
+      {
+        "itemIndex": 3,
+        "itemId": "180009",
+        "selectedSla": "RECOGE EN TIENDA TDA. HUACHO RT (31)",
+        "selectedDeliveryChannel": "pickup-in-point",
+        "lockTTL": "12d",
+        "price": 0,
+        "listPrice": 0,
+        "sellingPrice": 0,
+        "deliveryWindow": null,
+        "deliveryCompany": "TDA. HUACHO RT",
+        "shippingEstimate": "1d",
+        "shippingEstimateDate": "2025-04-19T16:51:23.2229918+00:00",
+        "slas": [
+          {
+            "id": "RECOGE EN TIENDA TDA. HUACHO RT (31)",
+            "name": "RECOGE EN TIENDA TDA. HUACHO RT (31)",
+            "shippingEstimate": "1d",
+            "deliveryWindow": null,
+            "availableDeliveryWindows": [],
+            "price": 0,
+            "listPrice": 0,
+            "deliveryChannel": "pickup-in-point",
+            "pickupStoreInfo": {
+              "additionalInfo": "",
+              "address": {
+                "addressType": "pickup",
+                "receiverName": null,
+                "addressId": "31",
+                "versionId": null,
+                "entityId": null,
+                "postalCode": "150801",
+                "city": "Huaura",
+                "state": "Lima",
+                "country": "PER",
+                "street": "TDA Huacho | C.C Plaza Del Sol. Calle Colon ",
+                "number": "601",
+                "neighborhood": "Huacho",
+                "complement": "",
+                "reference": null,
+                "geoCoordinates": [
+                  -77.61366,
+                  -11.10946
+                ]
+              },
+              "dockId": "31",
+              "friendlyName": "TDA. HUACHO",
+              "isPickupStore": true
+            },
+            "polygonName": "PERU_RT",
+            "lockTTL": "12d",
+            "pickupPointId": "1_31",
+            "transitTime": "1d",
+            "pickupDistance": 0,
+            "deliveryIds": [
+              {
+                "courierId": "31_1",
+                "courierName": "TDA. HUACHO RT",
+                "dockId": "31",
+                "quantity": 1,
+                "warehouseId": "31",
+                "accountCarrierName": "estilospe",
+                "kitItemDetails": []
+              }
+            ],
+            "shippingEstimateDate": "2025-04-19T16:51:23.2229918+00:00"
+          },
+          {
+            "id": "Envio Regular Huacho",
+            "name": "Envio Regular Huacho",
+            "shippingEstimate": "3bd",
+            "deliveryWindow": null,
+            "availableDeliveryWindows": [],
+            "price": 2460,
+            "listPrice": 2460,
+            "deliveryChannel": "delivery",
+            "pickupStoreInfo": {
+              "additionalInfo": null,
+              "address": null,
+              "dockId": null,
+              "friendlyName": null,
+              "isPickupStore": false
+            },
+            "polygonName": "HUACHO_URBANO",
+            "lockTTL": "12d",
+            "pickupPointId": null,
+            "transitTime": "3bd",
+            "pickupDistance": 0,
+            "deliveryIds": [
+              {
+                "courierId": "31",
+                "courierName": "TDA. HUACHO",
+                "dockId": "31",
+                "quantity": 1,
+                "warehouseId": "31",
+                "accountCarrierName": "estilospe",
+                "kitItemDetails": []
+              }
+            ],
+            "shippingEstimateDate": null
+          }
+        ],
+        "shipsTo": [
+          "PER"
+        ],
+        "deliveryIds": [
+          {
+            "courierId": "31_1",
+            "courierName": "TDA. HUACHO RT",
+            "dockId": "31",
+            "quantity": 1,
+            "warehouseId": "31",
+            "accountCarrierName": "estilospe",
+            "kitItemDetails": []
+          }
+        ],
+        "deliveryChannels": [
+          {
+            "id": "delivery",
+            "stockBalance": 0
+          },
+          {
+            "id": "pickup-in-point",
+            "stockBalance": 0
+          }
+        ],
+        "deliveryChannel": "pickup-in-point",
+        "pickupStoreInfo": {
+          "additionalInfo": "",
+          "address": {
+            "addressType": "pickup",
+            "receiverName": null,
+            "addressId": "31",
+            "versionId": null,
+            "entityId": null,
+            "postalCode": "150801",
+            "city": "Huaura",
+            "state": "Lima",
+            "country": "PER",
+            "street": "TDA Huacho | C.C Plaza Del Sol. Calle Colon ",
+            "number": "601",
+            "neighborhood": "Huacho",
+            "complement": "",
+            "reference": null,
+            "geoCoordinates": [
+              -77.61366,
+              -11.10946
+            ]
+          },
+          "dockId": "31",
+          "friendlyName": "TDA. HUACHO",
+          "isPickupStore": true
+        },
+        "addressId": "31",
+        "versionId": null,
+        "entityId": null,
+        "polygonName": "PERU_RT",
+        "pickupPointId": "1_31",
+        "transitTime": "1d"
+      },
+      {
+        "itemIndex": 4,
+        "itemId": "248336",
+        "selectedSla": "RECOGE EN TIENDA TDA. HUACHO RT (31)",
+        "selectedDeliveryChannel": "pickup-in-point",
+        "lockTTL": "12d",
+        "price": 0,
+        "listPrice": 0,
+        "sellingPrice": 0,
+        "deliveryWindow": null,
+        "deliveryCompany": "TDA. HUACHO RT",
+        "shippingEstimate": "1d",
+        "shippingEstimateDate": "2025-04-19T16:51:23.2229918+00:00",
+        "slas": [
+          {
+            "id": "RECOGE EN TIENDA TDA. HUACHO RT (31)",
+            "name": "RECOGE EN TIENDA TDA. HUACHO RT (31)",
+            "shippingEstimate": "1d",
+            "deliveryWindow": null,
+            "availableDeliveryWindows": [],
+            "price": 0,
+            "listPrice": 0,
+            "deliveryChannel": "pickup-in-point",
+            "pickupStoreInfo": {
+              "additionalInfo": "",
+              "address": {
+                "addressType": "pickup",
+                "receiverName": null,
+                "addressId": "31",
+                "versionId": null,
+                "entityId": null,
+                "postalCode": "150801",
+                "city": "Huaura",
+                "state": "Lima",
+                "country": "PER",
+                "street": "TDA Huacho | C.C Plaza Del Sol. Calle Colon ",
+                "number": "601",
+                "neighborhood": "Huacho",
+                "complement": "",
+                "reference": null,
+                "geoCoordinates": [
+                  -77.61366,
+                  -11.10946
+                ]
+              },
+              "dockId": "31",
+              "friendlyName": "TDA. HUACHO",
+              "isPickupStore": true
+            },
+            "polygonName": "PERU_RT",
+            "lockTTL": "12d",
+            "pickupPointId": "1_31",
+            "transitTime": "1d",
+            "pickupDistance": 0,
+            "deliveryIds": [
+              {
+                "courierId": "31_1",
+                "courierName": "TDA. HUACHO RT",
+                "dockId": "31",
+                "quantity": 1,
+                "warehouseId": "31",
+                "accountCarrierName": "estilospe",
+                "kitItemDetails": []
+              }
+            ],
+            "shippingEstimateDate": "2025-04-19T16:51:23.2229918+00:00"
+          },
+          {
+            "id": "Envio Regular Huacho",
+            "name": "Envio Regular Huacho",
+            "shippingEstimate": "3bd",
+            "deliveryWindow": null,
+            "availableDeliveryWindows": [],
+            "price": 0,
+            "listPrice": 308,
+            "deliveryChannel": "delivery",
+            "pickupStoreInfo": {
+              "additionalInfo": null,
+              "address": null,
+              "dockId": null,
+              "friendlyName": null,
+              "isPickupStore": false
+            },
+            "polygonName": "HUACHO_URBANO",
+            "lockTTL": "12d",
+            "pickupPointId": null,
+            "transitTime": "3bd",
+            "pickupDistance": 0,
+            "deliveryIds": [
+              {
+                "courierId": "31",
+                "courierName": "TDA. HUACHO",
+                "dockId": "31",
+                "quantity": 1,
+                "warehouseId": "31",
+                "accountCarrierName": "estilospe",
+                "kitItemDetails": []
+              }
+            ],
+            "shippingEstimateDate": null
+          }
+        ],
+        "shipsTo": [
+          "PER"
+        ],
+        "deliveryIds": [
+          {
+            "courierId": "31_1",
+            "courierName": "TDA. HUACHO RT",
+            "dockId": "31",
+            "quantity": 1,
+            "warehouseId": "31",
+            "accountCarrierName": "estilospe",
+            "kitItemDetails": []
+          }
+        ],
+        "deliveryChannels": [
+          {
+            "id": "delivery",
+            "stockBalance": 0
+          },
+          {
+            "id": "pickup-in-point",
+            "stockBalance": 0
+          }
+        ],
+        "deliveryChannel": "pickup-in-point",
+        "pickupStoreInfo": {
+          "additionalInfo": "",
+          "address": {
+            "addressType": "pickup",
+            "receiverName": null,
+            "addressId": "31",
+            "versionId": null,
+            "entityId": null,
+            "postalCode": "150801",
+            "city": "Huaura",
+            "state": "Lima",
+            "country": "PER",
+            "street": "TDA Huacho | C.C Plaza Del Sol. Calle Colon ",
+            "number": "601",
+            "neighborhood": "Huacho",
+            "complement": "",
+            "reference": null,
+            "geoCoordinates": [
+              -77.61366,
+              -11.10946
+            ]
+          },
+          "dockId": "31",
+          "friendlyName": "TDA. HUACHO",
+          "isPickupStore": true
+        },
+        "addressId": "31",
+        "versionId": null,
+        "entityId": null,
+        "polygonName": "PERU_RT",
+        "pickupPointId": "1_31",
+        "transitTime": "1d"
+      },
+      {
+        "itemIndex": 5,
+        "itemId": "272902",
+        "selectedSla": "RECOGE EN TIENDA TDA. HUACHO RT (31)",
+        "selectedDeliveryChannel": "pickup-in-point",
+        "lockTTL": "12d",
+        "price": 0,
+        "listPrice": 0,
+        "sellingPrice": 0,
+        "deliveryWindow": null,
+        "deliveryCompany": "TDA. HUACHO RT",
+        "shippingEstimate": "1d",
+        "shippingEstimateDate": "2025-04-19T16:51:23.2229918+00:00",
+        "slas": [
+          {
+            "id": "RECOGE EN TIENDA TDA. HUACHO RT (31)",
+            "name": "RECOGE EN TIENDA TDA. HUACHO RT (31)",
+            "shippingEstimate": "1d",
+            "deliveryWindow": null,
+            "availableDeliveryWindows": [],
+            "price": 0,
+            "listPrice": 0,
+            "deliveryChannel": "pickup-in-point",
+            "pickupStoreInfo": {
+              "additionalInfo": "",
+              "address": {
+                "addressType": "pickup",
+                "receiverName": null,
+                "addressId": "31",
+                "versionId": null,
+                "entityId": null,
+                "postalCode": "150801",
+                "city": "Huaura",
+                "state": "Lima",
+                "country": "PER",
+                "street": "TDA Huacho | C.C Plaza Del Sol. Calle Colon ",
+                "number": "601",
+                "neighborhood": "Huacho",
+                "complement": "",
+                "reference": null,
+                "geoCoordinates": [
+                  -77.61366,
+                  -11.10946
+                ]
+              },
+              "dockId": "31",
+              "friendlyName": "TDA. HUACHO",
+              "isPickupStore": true
+            },
+            "polygonName": "PERU_RT",
+            "lockTTL": "12d",
+            "pickupPointId": "1_31",
+            "transitTime": "1d",
+            "pickupDistance": 0,
+            "deliveryIds": [
+              {
+                "courierId": "31_1",
+                "courierName": "TDA. HUACHO RT",
+                "dockId": "31",
+                "quantity": 1,
+                "warehouseId": "31",
+                "accountCarrierName": "estilospe",
+                "kitItemDetails": []
+              }
+            ],
+            "shippingEstimateDate": "2025-04-19T16:51:23.2229918+00:00"
+          },
+          {
+            "id": "Envio Regular Huacho",
+            "name": "Envio Regular Huacho",
+            "shippingEstimate": "3bd",
+            "deliveryWindow": null,
+            "availableDeliveryWindows": [],
+            "price": 0,
+            "listPrice": 308,
+            "deliveryChannel": "delivery",
+            "pickupStoreInfo": {
+              "additionalInfo": null,
+              "address": null,
+              "dockId": null,
+              "friendlyName": null,
+              "isPickupStore": false
+            },
+            "polygonName": "HUACHO_URBANO",
+            "lockTTL": "12d",
+            "pickupPointId": null,
+            "transitTime": "3bd",
+            "pickupDistance": 0,
+            "deliveryIds": [
+              {
+                "courierId": "31",
+                "courierName": "TDA. HUACHO",
+                "dockId": "31",
+                "quantity": 1,
+                "warehouseId": "31",
+                "accountCarrierName": "estilospe",
+                "kitItemDetails": []
+              }
+            ],
+            "shippingEstimateDate": null
+          }
+        ],
+        "shipsTo": [
+          "PER"
+        ],
+        "deliveryIds": [
+          {
+            "courierId": "31_1",
+            "courierName": "TDA. HUACHO RT",
+            "dockId": "31",
+            "quantity": 1,
+            "warehouseId": "31",
+            "accountCarrierName": "estilospe",
+            "kitItemDetails": []
+          }
+        ],
+        "deliveryChannels": [
+          {
+            "id": "delivery",
+            "stockBalance": 0
+          },
+          {
+            "id": "pickup-in-point",
+            "stockBalance": 0
+          }
+        ],
+        "deliveryChannel": "pickup-in-point",
+        "pickupStoreInfo": {
+          "additionalInfo": "",
+          "address": {
+            "addressType": "pickup",
+            "receiverName": null,
+            "addressId": "31",
+            "versionId": null,
+            "entityId": null,
+            "postalCode": "150801",
+            "city": "Huaura",
+            "state": "Lima",
+            "country": "PER",
+            "street": "TDA Huacho | C.C Plaza Del Sol. Calle Colon ",
+            "number": "601",
+            "neighborhood": "Huacho",
+            "complement": "",
+            "reference": null,
+            "geoCoordinates": [
+              -77.61366,
+              -11.10946
+            ]
+          },
+          "dockId": "31",
+          "friendlyName": "TDA. HUACHO",
+          "isPickupStore": true
+        },
+        "addressId": "31",
+        "versionId": null,
+        "entityId": null,
+        "polygonName": "PERU_RT",
+        "pickupPointId": "1_31",
+        "transitTime": "1d"
+      }
+    ],
+    "trackingHints": null,
+    "selectedAddresses": [
+      {
+        "addressType": "pickup",
+        "receiverName": "EDGAR  enriquez escobar",
+        "addressId": "31",
+        "versionId": null,
+        "entityId": null,
+        "postalCode": "150801",
+        "city": "Huaura",
+        "state": "Lima",
+        "country": "PER",
+        "street": "TDA Huacho | C.C Plaza Del Sol. Calle Colon ",
+        "number": "601",
+        "neighborhood": "Huacho",
+        "complement": "",
+        "reference": null,
+        "geoCoordinates": [
+          -77.61366,
+          -11.10946
+        ]
+      }
+    ],
+    "availableAddresses": [
+      {
+        "addressType": "pickup",
+        "receiverName": "EDGAR  enriquez escobar",
+        "addressId": "31",
+        "versionId": null,
+        "entityId": null,
+        "postalCode": "150801",
+        "city": "Huaura",
+        "state": "Lima",
+        "country": "PER",
+        "street": "TDA Huacho | C.C Plaza Del Sol. Calle Colon ",
+        "number": "601",
+        "neighborhood": "Huacho",
+        "complement": "",
+        "reference": null,
+        "geoCoordinates": [
+          -77.61366,
+          -11.10946
+        ]
+      }
+    ],
+    "contactInformation": []
+  },
+  "ratesAndBenefitsData": {
+    "id": "ratesAndBenefitsData",
+    "rateAndBenefitsIdentifiers": []
+  },
+  "marketingData": null,
+  "giftRegistryData": null,
+  "clientProfileData": {
+    "id": "clientProfileData",
+    "email": "enriquezescobaradrian4@gmail.com-259000950465b.ct.vtex.com.br",
+    "firstName": "EDGAR ",
+    "lastName": "enriquez escobar",
+    "documentType": "DNI",
+    "document": "79136328",
+    "phone": "+51900136166",
+    "corporateName": null,
+    "tradeName": null,
+    "corporateDocument": null,
+    "stateInscription": null,
+    "corporatePhone": null,
+    "isCorporate": false,
+    "userProfileId": "39eda10c-9694-4fff-bfc7-5fb34b89625c",
+    "userProfileVersion": null,
+    "customerClass": null,
+    "customerCode": null
+  },
+  "items": [
+    {
+      "uniqueId": "6540FCC9800048FF8B2EF06DF992DD18",
+      "id": "254529",
+      "productId": "274829",
+      "ean": null,
+      "lockId": "00-1525850597352-01",
+      "itemAttachment": {
+        "content": {},
+        "name": null
+      },
+      "attachments": [],
+      "quantity": 1,
+      "seller": "1",
+      "name": "ZAPATILLA ADVANTAGE 2.0 IG918 ADVANTAGE 2.0 IG9182 FTWR WHITE 7",
+      "refId": "002329443",
+      "price": 24900,
+      "listPrice": 24900,
+      "manualPrice": 12450,
+      "manualPriceAppliedBy": "2c0df41f-6dea-4a2c-a06a-2869cbe83d2b",
+      "priceTags": [
+        {
+          "name": "DISCOUNT@MANUALPRICE",
+          "value": -12450,
+          "isPercentual": false,
+          "identifier": null,
+          "rawValue": -124.5,
+          "rate": null,
+          "jurisCode": null,
+          "jurisType": null,
+          "jurisName": null
+        }
+      ],
+      "imageUrl": "https://estilospe.vteximg.com.br/arquivos/ids/3207262-90-90/SKU.jpg?v=638563220641170000",
+      "detailUrl": "/advantage-2-0-ig9182274829/p",
+      "components": [],
+      "bundleItems": [],
+      "params": [],
+      "offerings": [],
+      "attachmentOfferings": [],
+      "sellerSku": "254529",
+      "priceValidUntil": "2026-04-18T16:47:12.0000000+00:00",
+      "commission": 0,
+      "tax": 0,
+      "preSaleDate": null,
+      "additionalInfo": {
+        "brandName": "ADIDAS",
+        "brandId": "301",
+        "categoriesIds": "/1000004/2000012/3000227/4001785/5004206/",
+        "categories": [
+          {
+            "id": 5004206,
+            "name": "ZAPATILLA"
+          },
+          {
+            "id": 4001785,
+            "name": "ZAPATILLAS *CALZADO DAMAS PROPIO"
+          },
+          {
+            "id": 3000227,
+            "name": "CALZADO DAMAS PROPIO"
+          },
+          {
+            "id": 2000012,
+            "name": "CALZADO"
+          },
+          {
+            "id": 1000004,
+            "name": "TEXTIL"
+          }
+        ],
+        "productClusterId": "275,327,569,570,604,654,833,1169,1300,1329,1479,1506,1532,1538,1624,1751,1762,1783,1831,1836,1853,1855,1857",
+        "commercialConditionId": "1",
+        "dimension": {
+          "cubicweight": 0,
+          "height": 0,
+          "length": 0,
+          "weight": 1000,
+          "width": 0
+        },
+        "offeringInfo": null,
+        "offeringType": null,
+        "offeringTypeId": null
+      },
+      "measurementUnit": "un",
+      "unitMultiplier": 1,
+      "sellingPrice": 12450,
+      "isGift": false,
+      "shippingPrice": null,
+      "rewardValue": 0,
+      "freightCommission": 0,
+      "priceDefinition": {
+        "sellingPrices": [
+          {
+            "value": 12450,
+            "quantity": 1
+          }
+        ],
+        "calculatedSellingPrice": 12450,
+        "total": 12450,
+        "reason": "priceTable"
+      },
+      "taxCode": "",
+      "parentItemIndex": null,
+      "parentAssemblyBinding": null,
+      "callCenterOperator": null,
+      "serialNumbers": null,
+      "assemblies": [],
+      "costPrice": 13238
+    },
+    {
+      "uniqueId": "09F51E8454294BB1BFB51D55AFCC32FA",
+      "id": "243584",
+      "productId": "270718",
+      "ean": null,
+      "lockId": "00-1525850597352-01",
+      "itemAttachment": {
+        "content": {},
+        "name": null
+      },
+      "attachments": [],
+      "quantity": 1,
+      "seller": "1",
+      "name": "LEVI'S JEANS 045113920 511? SLIM 511? AZUL CLARO 30",
+      "refId": "002304716",
+      "price": 24900,
+      "listPrice": 24900,
+      "manualPrice": 12450,
+      "manualPriceAppliedBy": "2c0df41f-6dea-4a2c-a06a-2869cbe83d2b",
+      "priceTags": [
+        {
+          "name": "DISCOUNT@MANUALPRICE",
+          "value": -12450,
+          "isPercentual": false,
+          "identifier": null,
+          "rawValue": -124.5,
+          "rate": null,
+          "jurisCode": null,
+          "jurisType": null,
+          "jurisName": null
+        }
+      ],
+      "imageUrl": "https://estilospe.vteximg.com.br/arquivos/ids/3144836-90-90/SKU.jpg?v=638507008964030000",
+      "detailUrl": "/levi-s-jeans-045113920-511--slim-511-270718/p",
+      "components": [],
+      "bundleItems": [],
+      "params": [],
+      "offerings": [],
+      "attachmentOfferings": [],
+      "sellerSku": "243584",
+      "priceValidUntil": "2026-04-18T16:47:31.0000000+00:00",
+      "commission": 0,
+      "tax": 0,
+      "preSaleDate": null,
+      "additionalInfo": {
+        "brandName": "LEVI'S",
+        "brandId": "52",
+        "categoriesIds": "/1000004/2000009/3000048/4000230/5003508/",
+        "categories": [
+          {
+            "id": 5003508,
+            "name": "JEAN SLIM"
+          },
+          {
+            "id": 4000230,
+            "name": "JEANS *MUNDO JOVEN HOMBRES"
+          },
+          {
+            "id": 3000048,
+            "name": "MUNDO JOVEN HOMBRES"
+          },
+          {
+            "id": 2000009,
+            "name": "HOMBRES"
+          },
+          {
+            "id": 1000004,
+            "name": "TEXTIL"
+          }
+        ],
+        "productClusterId": "327,728,1329,1342,1348,1506,1532,1628,1857",
+        "commercialConditionId": "1",
+        "dimension": {
+          "cubicweight": 0,
+          "height": 0,
+          "length": 0,
+          "weight": 1000,
+          "width": 0
+        },
+        "offeringInfo": null,
+        "offeringType": null,
+        "offeringTypeId": null
+      },
+      "measurementUnit": "un",
+      "unitMultiplier": 1,
+      "sellingPrice": 12450,
+      "isGift": false,
+      "shippingPrice": null,
+      "rewardValue": 0,
+      "freightCommission": 0,
+      "priceDefinition": {
+        "sellingPrices": [
+          {
+            "value": 12450,
+            "quantity": 1
+          }
+        ],
+        "calculatedSellingPrice": 12450,
+        "total": 12450,
+        "reason": "priceTable"
+      },
+      "taxCode": "",
+      "parentItemIndex": null,
+      "parentAssemblyBinding": null,
+      "callCenterOperator": null,
+      "serialNumbers": null,
+      "assemblies": [],
+      "costPrice": 13505
+    },
+    {
+      "uniqueId": "F62DFC350CC74E5387ACA6191D4DB76A",
+      "id": "243580",
+      "productId": "270716",
+      "ean": null,
+      "lockId": "00-1525850597352-01",
+      "itemAttachment": {
+        "content": {},
+        "name": null
+      },
+      "attachments": [],
+      "quantity": 1,
+      "seller": "1",
+      "name": "LEVI'S JEANS 045111907 511? SLIM 511? NEGRO 32",
+      "refId": "002304705",
+      "price": 24900,
+      "listPrice": 24900,
+      "manualPrice": 12450,
+      "manualPriceAppliedBy": "2c0df41f-6dea-4a2c-a06a-2869cbe83d2b",
+      "priceTags": [
+        {
+          "name": "DISCOUNT@MANUALPRICE",
+          "value": -12450,
+          "isPercentual": false,
+          "identifier": null,
+          "rawValue": -124.5,
+          "rate": null,
+          "jurisCode": null,
+          "jurisType": null,
+          "jurisName": null
+        }
+      ],
+      "imageUrl": "https://estilospe.vteximg.com.br/arquivos/ids/3144305-90-90/SKU.jpg?v=638507001824230000",
+      "detailUrl": "/levi-s-jeans-045111907-511--slim-511-270716/p",
+      "components": [],
+      "bundleItems": [],
+      "params": [],
+      "offerings": [],
+      "attachmentOfferings": [],
+      "sellerSku": "243580",
+      "priceValidUntil": "2026-04-18T16:47:31.0000000+00:00",
+      "commission": 0,
+      "tax": 0,
+      "preSaleDate": null,
+      "additionalInfo": {
+        "brandName": "LEVI'S",
+        "brandId": "52",
+        "categoriesIds": "/1000004/2000009/3000048/4000230/5003508/",
+        "categories": [
+          {
+            "id": 5003508,
+            "name": "JEAN SLIM"
+          },
+          {
+            "id": 4000230,
+            "name": "JEANS *MUNDO JOVEN HOMBRES"
+          },
+          {
+            "id": 3000048,
+            "name": "MUNDO JOVEN HOMBRES"
+          },
+          {
+            "id": 2000009,
+            "name": "HOMBRES"
+          },
+          {
+            "id": 1000004,
+            "name": "TEXTIL"
+          }
+        ],
+        "productClusterId": "327,728,1329,1342,1348,1506,1628,1857",
+        "commercialConditionId": "1",
+        "dimension": {
+          "cubicweight": 0,
+          "height": 0,
+          "length": 0,
+          "weight": 1000,
+          "width": 0
+        },
+        "offeringInfo": null,
+        "offeringType": null,
+        "offeringTypeId": null
+      },
+      "measurementUnit": "un",
+      "unitMultiplier": 1,
+      "sellingPrice": 12450,
+      "isGift": false,
+      "shippingPrice": null,
+      "rewardValue": 0,
+      "freightCommission": 0,
+      "priceDefinition": {
+        "sellingPrices": [
+          {
+            "value": 12450,
+            "quantity": 1
+          }
+        ],
+        "calculatedSellingPrice": 12450,
+        "total": 12450,
+        "reason": "priceTable"
+      },
+      "taxCode": "",
+      "parentItemIndex": null,
+      "parentAssemblyBinding": null,
+      "callCenterOperator": null,
+      "serialNumbers": null,
+      "assemblies": [],
+      "costPrice": 13505
+    },
+    {
+      "uniqueId": "2089BD72F5184C509E8B19D88B83316E",
+      "id": "180009",
+      "productId": "208510",
+      "ean": "900019700109",
+      "lockId": "00-1525850597352-01",
+      "itemAttachment": {
+        "content": {},
+        "name": null
+      },
+      "attachments": [],
+      "quantity": 1,
+      "seller": "1",
+      "name": "THOMAS HERVIDOR TH-4340 1.7 LT . .",
+      "refId": "001970010",
+      "price": 12900,
+      "listPrice": 12900,
+      "manualPrice": 6290,
+      "manualPriceAppliedBy": "2c0df41f-6dea-4a2c-a06a-2869cbe83d2b",
+      "priceTags": [
+        {
+          "name": "DISCOUNT@MANUALPRICE",
+          "value": -6610,
+          "isPercentual": false,
+          "identifier": null,
+          "rawValue": -66.1,
+          "rate": null,
+          "jurisCode": null,
+          "jurisType": null,
+          "jurisName": null
+        }
+      ],
+      "imageUrl": "https://estilospe.vteximg.com.br/arquivos/ids/2815511-90-90/001970010.jpg?v=638325590315330000",
+      "detailUrl": "/thomas-hervidor-th-4340-1-7-lt208510/p",
+      "components": [],
+      "bundleItems": [],
+      "params": [],
+      "offerings": [],
+      "attachmentOfferings": [],
+      "sellerSku": "180009",
+      "priceValidUntil": "2026-04-18T16:47:31.0000000+00:00",
+      "commission": 0,
+      "tax": 0,
+      "preSaleDate": null,
+      "additionalInfo": {
+        "brandName": "THOMAS",
+        "brandId": "7767",
+        "categoriesIds": "/1000001/2000014/3000110/4000866/5002260/",
+        "categories": [
+          {
+            "id": 5002260,
+            "name": "HERVIDOR"
+          },
+          {
+            "id": 4000866,
+            "name": "HERVIDOR *ELECTRODOMESTICOS"
+          },
+          {
+            "id": 3000110,
+            "name": "ELECTRODOMESTICOS"
+          },
+          {
+            "id": 2000014,
+            "name": "ELECTRO"
+          },
+          {
+            "id": 1000001,
+            "name": "ELECTRO"
+          }
+        ],
+        "productClusterId": "197,327,447,466,719,797,1137,1331,1343,1794,1805,1832,1857,1860,1876",
+        "commercialConditionId": "1",
+        "dimension": {
+          "cubicweight": 0,
+          "height": 26,
+          "length": 19,
+          "weight": 8000,
+          "width": 19
+        },
+        "offeringInfo": null,
+        "offeringType": null,
+        "offeringTypeId": null
+      },
+      "measurementUnit": "un",
+      "unitMultiplier": 1,
+      "sellingPrice": 6290,
+      "isGift": false,
+      "shippingPrice": null,
+      "rewardValue": 0,
+      "freightCommission": 0,
+      "priceDefinition": {
+        "sellingPrices": [
+          {
+            "value": 6290,
+            "quantity": 1
+          }
+        ],
+        "calculatedSellingPrice": 6290,
+        "total": 6290,
+        "reason": "priceTable"
+      },
+      "taxCode": "",
+      "parentItemIndex": null,
+      "parentAssemblyBinding": null,
+      "callCenterOperator": null,
+      "serialNumbers": null,
+      "assemblies": [],
+      "costPrice": 8199
+    },
+    {
+      "uniqueId": "6EAE582EEDFE46C7BB13C450F2AD4B28",
+      "id": "248336",
+      "productId": "272681",
+      "ean": null,
+      "lockId": "00-1525850597352-01",
+      "itemAttachment": {
+        "content": {},
+        "name": null
+      },
+      "attachments": [],
+      "quantity": 1,
+      "seller": "1",
+      "name": "POLERON PUMA 625205 43 PUMA TEAM RUGBY SHIRT PUMA  625205 43 PUMA TEAM RUGBY SHIRT VERDE S",
+      "refId": "002315128",
+      "price": 21900,
+      "listPrice": 21900,
+      "manualPrice": 13140,
+      "manualPriceAppliedBy": "2c0df41f-6dea-4a2c-a06a-2869cbe83d2b",
+      "priceTags": [
+        {
+          "name": "DISCOUNT@MANUALPRICE",
+          "value": -8760,
+          "isPercentual": false,
+          "identifier": null,
+          "rawValue": -87.6,
+          "rate": null,
+          "jurisCode": null,
+          "jurisType": null,
+          "jurisName": null
+        }
+      ],
+      "imageUrl": "https://estilospe.vteximg.com.br/arquivos/ids/3171153-90-90/SKU.jpg?v=638538302957730000",
+      "detailUrl": "/puma--625205-43-puma-team-rugby-shirt272681/p",
+      "components": [],
+      "bundleItems": [],
+      "params": [],
+      "offerings": [],
+      "attachmentOfferings": [],
+      "sellerSku": "248336",
+      "priceValidUntil": "2026-04-18T16:46:13.0000000+00:00",
+      "commission": 0,
+      "tax": 0,
+      "preSaleDate": null,
+      "additionalInfo": {
+        "brandName": "PUMA",
+        "brandId": "979",
+        "categoriesIds": "/1000004/2000010/3000053/4000300/5002489/",
+        "categories": [
+          {
+            "id": 5002489,
+            "name": "POLERON"
+          },
+          {
+            "id": 4000300,
+            "name": "POLERONES *TEXTIL HOMBRES"
+          },
+          {
+            "id": 3000053,
+            "name": "TEXTIL HOMBRES"
+          },
+          {
+            "id": 2000010,
+            "name": "DEPORTES"
+          },
+          {
+            "id": 1000004,
+            "name": "TEXTIL"
+          }
+        ],
+        "productClusterId": "327,587,604,610,857,1191,1282,1342,1506,1532,1539,1628,1755,1762,1820,1855,1857",
+        "commercialConditionId": "1",
+        "dimension": {
+          "cubicweight": 0,
+          "height": 0,
+          "length": 0,
+          "weight": 1000,
+          "width": 0
+        },
+        "offeringInfo": null,
+        "offeringType": null,
+        "offeringTypeId": null
+      },
+      "measurementUnit": "un",
+      "unitMultiplier": 1,
+      "sellingPrice": 13140,
+      "isGift": false,
+      "shippingPrice": null,
+      "rewardValue": 0,
+      "freightCommission": 0,
+      "priceDefinition": {
+        "sellingPrices": [
+          {
+            "value": 13140,
+            "quantity": 1
+          }
+        ],
+        "calculatedSellingPrice": 13140,
+        "total": 13140,
+        "reason": "priceTable"
+      },
+      "taxCode": "",
+      "parentItemIndex": null,
+      "parentAssemblyBinding": null,
+      "callCenterOperator": null,
+      "serialNumbers": null,
+      "assemblies": [],
+      "costPrice": 8519
+    },
+    {
+      "uniqueId": "746B5ED4226643D0A76F0077F0D02437",
+      "id": "272902",
+      "productId": "281048",
+      "ean": null,
+      "lockId": "00-1525850597352-01",
+      "itemAttachment": {
+        "content": {},
+        "name": null
+      },
+      "attachments": [],
+      "quantity": 1,
+      "seller": "1",
+      "name": "NIKE ÍNDIGO  EDT 30ML NIKE ÍNDIGO EDT 30ML . .",
+      "refId": "002352930",
+      "price": 4990,
+      "listPrice": 4990,
+      "manualPrice": 3990,
+      "manualPriceAppliedBy": "2c0df41f-6dea-4a2c-a06a-2869cbe83d2b",
+      "priceTags": [
+        {
+          "name": "DISCOUNT@MANUALPRICE",
+          "value": -1000,
+          "isPercentual": false,
+          "identifier": null,
+          "rawValue": -10,
+          "rate": null,
+          "jurisCode": null,
+          "jurisType": null,
+          "jurisName": null
+        }
+      ],
+      "imageUrl": "https://estilospe.vteximg.com.br/arquivos/ids/3297596-90-90/SKU.jpg?v=638687732631170000",
+      "detailUrl": "/nike-indigo--edt-30ml281048/p",
+      "components": [],
+      "bundleItems": [],
+      "params": [],
+      "offerings": [],
+      "attachmentOfferings": [],
+      "sellerSku": "272902",
+      "priceValidUntil": "2026-04-18T16:47:31.0000000+00:00",
+      "commission": 0,
+      "tax": 0,
+      "preSaleDate": null,
+      "additionalInfo": {
+        "brandName": "NIKE",
+        "brandId": "284",
+        "categoriesIds": "/1000004/2000024/3000073/4000139/5001528/",
+        "categories": [
+          {
+            "id": 5001528,
+            "name": "PERFUMES"
+          },
+          {
+            "id": 4000139,
+            "name": "PERFUMERIA *PERFUMERIA"
+          },
+          {
+            "id": 3000073,
+            "name": "PERFUMERIA"
+          },
+          {
+            "id": 2000024,
+            "name": "BELLEZA"
+          },
+          {
+            "id": 1000004,
+            "name": "TEXTIL"
+          }
+        ],
+        "productClusterId": "327,524,528,1506,1593,1596,1620,1670,1708,1857",
+        "commercialConditionId": "1",
+        "dimension": {
+          "cubicweight": 0,
+          "height": 0,
+          "length": 0,
+          "weight": 1000,
+          "width": 0
+        },
+        "offeringInfo": null,
+        "offeringType": null,
+        "offeringTypeId": null
+      },
+      "measurementUnit": "un",
+      "unitMultiplier": 1,
+      "sellingPrice": 3990,
+      "isGift": false,
+      "shippingPrice": null,
+      "rewardValue": 0,
+      "freightCommission": 0,
+      "priceDefinition": {
+        "sellingPrices": [
+          {
+            "value": 3990,
+            "quantity": 1
+          }
+        ],
+        "calculatedSellingPrice": 3990,
+        "total": 3990,
+        "reason": "priceTable"
+      },
+      "taxCode": "",
+      "parentItemIndex": null,
+      "parentAssemblyBinding": null,
+      "callCenterOperator": null,
+      "serialNumbers": null,
+      "assemblies": [],
+      "costPrice": 2325
+    }
+  ],
+  "marketplaceItems": [],
+  "cancellationRequests": null,
+  "approvedBy": null,
+  "cancelledBy": null
+}
